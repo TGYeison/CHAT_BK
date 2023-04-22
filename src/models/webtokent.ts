@@ -1,4 +1,5 @@
+
 export interface msg{
-    body: string;
+    msg: string;
     from: string;
 }
